@@ -1,0 +1,7 @@
+kadangi kiaura galva, uzsirasau:
+virtuali aplinka:
+python -m venv myenv
+tada      myenv\Scripts\Activate.ps1
+susikurti faila kuriame sedetu visi reikalingi moduliai ar packagai ar kaip juos pavadinti
+pip freeze > requirements.txt
+dadet naujus berods tiesiog pip freeze   o instaliuoti is naujo pasileidus pip install -r requirements.txt
