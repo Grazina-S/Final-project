@@ -9,3 +9,5 @@ nesigavo perskaityti tiesiai is interneto, parsidownloadinau ir uzsikroviau is k
 #df = pd.read_csv('https://query.data.world/s/zmbllbphuegmiqcjpgtnrl3xew2jxh')
 #could not read, downloaded to pc and read that way
 df = pd.read_csv(r'C:\Users\grazk\Documents\Git_project\Production_Crops_E_Europe.csv')
+
+geopandas ignoravau, nes reikia anakondos, nenoriu dabar gilintis. O visa kita veikia kaip ir priklauso
